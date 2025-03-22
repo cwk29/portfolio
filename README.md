@@ -1,6 +1,6 @@
 # Cody Kuykendall
 
-This is my personal website. It's built with Next.js and Tailwind CSS.
+This is my personal website. It's built with Next.js, Tailwind, Wagmi, Viem, and Ethers.
 
 ## Summary
 
